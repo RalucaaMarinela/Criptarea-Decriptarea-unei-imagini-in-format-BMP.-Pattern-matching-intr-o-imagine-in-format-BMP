@@ -1,1 +1,1 @@
-# Criptarea-Decriptarea-unei-imagini-in-format-BMP.-Pattern-matching-ntr-o-imagine-n-format-BMP
+# Criptarea/Decriptarea unei imagini in format BMP. Pattern matching intr-o imagine in format BMP
